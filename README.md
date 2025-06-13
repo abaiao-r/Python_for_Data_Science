@@ -4,16 +4,17 @@ This repository contains a collection of projects focused on exploring the Pytho
 
 ## Table of Contents
 
-- [Python - 0 - Starting](https://github.com/your-repo/Python_0_Starting)
-- [Python - 1 - Array](https://github.com/your-repo/Python_1_Array)
-- [Python - 2 - DataTable](https://github.com/your-repo/Python_2_DataTable)
-- [Python - 3 - OOP](https://github.com/your-repo/Python_3_OOP)
-- [Python - 4 - Dod](https://github.com/your-repo/Python_4_Dod)
+- [Training_Piscine_Python_for_DataScience_-_0_Starting](https://github.com/abaiao-r/Training_Piscine_Python_for_DataScience_0_Starting)
+- [Training_Piscine_Python_for_DataScience_-_1_Array](https://github.com/abaiao-r/Training_Piscine_Python_for_DataScience_1_Array)
+- [Training_Piscine_Python_for_DataScience_-_2_DataTable](https://github.com/abaiao-r/Training_Piscine_Python_for_DataScience_2_DataTable)
+- [Training_Piscine_Python_for_DataScience_-_3_Oriented_Object_Programming](https://github.com/abaiao-r/Training_Piscine_Python_for_DataScience_3_Oriented_Object_Programming)
+- [Training_Piscine_Python_for_DataScience_-_4_Data_Oriented_Design](https://github.com/abaiao-r/Training_Piscine_Python_for_DataScience_4_Data_Oriented_Design)
 
 ## Keywords
 - Python
 - Data Science
 - Object-Oriented Programming
+- Data Management
 
 ## Skills
 - Python Programming
@@ -21,3 +22,4 @@ This repository contains a collection of projects focused on exploring the Pytho
 - Object-Oriented Programming (OOP)
 - Data Manipulation
 - Problem Solving
+
